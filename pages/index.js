@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Ninja List | Home</title>
+        <title>Floxus Blogs | Home</title>
         <meta name="keywords" content="ninjas"/>
       </Head>
       <div>
